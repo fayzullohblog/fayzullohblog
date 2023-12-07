@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fayzulloh</h1>
 <h3 align="center">A passionate Python Engineer from Uzbekistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=musharrafp&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fayzullohblogp&label=Profile%20views&color=0e75b6&style=flat" alt="musharrafp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=themusharraf" alt="Musharraf" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fayzullohblog" alt="Musharraf" /></a> </p>
 
 - 🔭 I’m currently working on **FlixTv**
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Falcon**
 
-- 👨‍💻 All of my projects are available at [https://github.com/themusharraf](https://github.com/themusharraf)
+- 👨‍💻 All of my projects are available at [https://github.com/fayzullohblog](https://github.com/fayzullohblog)
 
 - ⚡️ Fun fact [i love to code](i love to code)
 
