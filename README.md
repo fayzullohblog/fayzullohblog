@@ -19,10 +19,11 @@
 
 - 📫 How to reach me **fayzulloh00010003@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/musharrafibragimov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="musharrafibragimov" height="30" width="40" /></a>
-</p>
+<h3 align="left">quyidagi social tarmoqlarda kuzating:</h3>
+
+[ ![My](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ](https://github.com/fayzullohblog) [ ![My](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ](https://www.linkedin.com/in/fayzullohblog/)  [ ![My](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ](https://www.instagram.com/fayzullohblog/)   [ ![My](https://patrolavia.github.io/telegram-badge/chat.png) ](https://t.me/webmasterpy)  [ ![](https://patrolavia.github.io/telegram-badge/follow.png) ](https://t.me/suniy_intelekt_uzb) [ ![My](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/facebook-48x48.png) ](https://www.facebook.com/fayzullohblog/)  [ ![My](https://github.com/paulrobertlloyd/socialmediaicons/blob/main/youtube-48x48.png) ](https://www.youtube.com/@webmaster_py) 
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 
